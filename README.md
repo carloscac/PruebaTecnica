@@ -9,3 +9,5 @@ El proyecto cuenta con las siguientes capas:
 3. Capa de negocio: Es el core de la aplicación es donde unimos todas las capas para realizarlo se crean interfaces que deben implementarse en las diferentes capas.
 4. Capa de presentación: A través de esta capa estamos esponiendo un servicio desde donde podemos iniciar el consumo y que también se conecta con la aplicación de angular.
 5. Capa de entidades: En esta capa tenemos todas las entidades que se utilizarán en la aplicación.
+
+![image](https://user-images.githubusercontent.com/15669601/153697965-efe4b0b2-b76c-4cff-b483-a5b7b9a91c76.png)

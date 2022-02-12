@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Reportes/1.0.0": {
+        "dependencies": {
+          "Microsoft.Report.Viewer": "11.0.0"
+        },
+        "runtime": {
+          "Reportes.dll": {}
+        }
+      },
+      "Microsoft.Report.Viewer/11.0.0": {
+        "runtime": {
+          "lib/net/Microsoft.ReportViewer.Common.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2802.16"
+          },
+          "lib/net/Microsoft.ReportViewer.ProcessingObjectModel.DLL": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2802.16"
+          },
+          "lib/net/Microsoft.ReportViewer.WebForms.DLL": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2802.16"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reportes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Report.Viewer/11.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QMPHoeVcTiqO55tUyG6z97nkesI0k8rNr1brbyECJezrK8XyjICzuRR3QtsZFI/7kalm4Ko/JCvK0lm+gztTVQ==",
+      "path": "microsoft.report.viewer/11.0.0",
+      "hashPath": "microsoft.report.viewer.11.0.0.nupkg.sha512"
+    }
+  }
+}

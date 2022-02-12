@@ -1,0 +1,15 @@
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\bin\Debug\net5.0\Negocio.deps.json
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\bin\Debug\net5.0\Negocio.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\bin\Debug\net5.0\ref\Negocio.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\bin\Debug\net5.0\Negocio.pdb
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\bin\Debug\net5.0\Entidades.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\bin\Debug\net5.0\Entidades.pdb
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\obj\Debug\net5.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\obj\Debug\net5.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfo.cs
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\obj\Debug\net5.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\obj\Debug\net5.0\Negocio.csproj.CopyComplete
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\obj\Debug\net5.0\Negocio.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\obj\Debug\net5.0\ref\Negocio.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Negocio\obj\Debug\net5.0\Negocio.pdb

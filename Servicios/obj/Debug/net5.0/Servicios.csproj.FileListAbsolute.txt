@@ -1,0 +1,17 @@
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\bin\Debug\net5.0\Servicios.deps.json
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\bin\Debug\net5.0\Servicios.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\bin\Debug\net5.0\ref\Servicios.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\bin\Debug\net5.0\Servicios.pdb
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\bin\Debug\net5.0\Entidades.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\bin\Debug\net5.0\Negocio.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\bin\Debug\net5.0\Negocio.pdb
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\bin\Debug\net5.0\Entidades.pdb
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\obj\Debug\net5.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\obj\Debug\net5.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfo.cs
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\obj\Debug\net5.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\obj\Debug\net5.0\Servicios.csproj.CopyComplete
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\obj\Debug\net5.0\Servicios.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\obj\Debug\net5.0\ref\Servicios.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Servicios\obj\Debug\net5.0\Servicios.pdb

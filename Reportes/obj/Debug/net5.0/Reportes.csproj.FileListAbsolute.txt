@@ -1,0 +1,11 @@
+C:\Users\cacuaca8\source\repos\WebApplication8\Reportes\bin\Debug\net5.0\Reportes.deps.json
+C:\Users\cacuaca8\source\repos\WebApplication8\Reportes\bin\Debug\net5.0\Reportes.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Reportes\bin\Debug\net5.0\ref\Reportes.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Reportes\bin\Debug\net5.0\Reportes.pdb
+C:\Users\cacuaca8\source\repos\WebApplication8\Reportes\obj\Debug\net5.0\Reportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cacuaca8\source\repos\WebApplication8\Reportes\obj\Debug\net5.0\Reportes.AssemblyInfoInputs.cache
+C:\Users\cacuaca8\source\repos\WebApplication8\Reportes\obj\Debug\net5.0\Reportes.AssemblyInfo.cs
+C:\Users\cacuaca8\source\repos\WebApplication8\Reportes\obj\Debug\net5.0\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\cacuaca8\source\repos\WebApplication8\Reportes\obj\Debug\net5.0\Reportes.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Reportes\obj\Debug\net5.0\ref\Reportes.dll
+C:\Users\cacuaca8\source\repos\WebApplication8\Reportes\obj\Debug\net5.0\Reportes.pdb

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "6LIEbltz64nV6RUf+exUhVue068g++4g5o52iF6IDMNS82ErZ6qew+4DDDg3F8z+msM7SK5WrUMTXbLCJjr7SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cacuaca8\\source\\repos\\PruebaTecnica\\Reportes\\Reportes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cacuaca8\\.nuget\\packages\\microsoft.report.viewer\\11.0.0\\microsoft.report.viewer.11.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Microsoft.Report.Viewer 11.0.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Microsoft.Report.Viewer",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
